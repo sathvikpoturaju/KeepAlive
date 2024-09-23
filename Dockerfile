@@ -4,5 +4,5 @@ RUN mvn clean package -DskipTests
 
 FROM openjdk:21-jdk-slim
 COPY --from=build /target/KeepAlive-0.0.1-SNAPSHOT.jar KeepAlive.jar
-EXPOSE 5000
+EXPOSE 4000
 ENTRYPOINT ["java","-jar","KeepAlive.jar"]
