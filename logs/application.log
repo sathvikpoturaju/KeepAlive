@@ -1,0 +1,62 @@
+2024-09-23 20:17:02 [main] INFO  c.s.K.KeepAliveApplicationTests - Starting KeepAliveApplicationTests using Java 21.0.1 with PID 1531 (started by sathvik in /Users/sathvik/Documents/Applications/KeepAlive)
+2024-09-23 20:17:02 [main] INFO  c.s.K.KeepAliveApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 20:17:03 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-23 20:17:03 [main] INFO  c.s.K.KeepAliveApplicationTests - Started KeepAliveApplicationTests in 0.788 seconds (process running for 1.211)
+2024-09-23 20:34:45 [main] INFO  c.s.K.KeepAliveApplicationTests - Starting KeepAliveApplicationTests using Java 21.0.1 with PID 1643 (started by sathvik in /Users/sathvik/Documents/Applications/KeepAlive)
+2024-09-23 20:34:45 [main] INFO  c.s.K.KeepAliveApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 20:34:46 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-23 20:34:46 [main] INFO  c.s.K.KeepAliveApplicationTests - Started KeepAliveApplicationTests in 0.813 seconds (process running for 1.195)
+2024-09-23 21:09:32 [main] INFO  c.s.K.KeepAliveApplicationTests - Starting KeepAliveApplicationTests using Java 21.0.1 with PID 1688 (started by sathvik in /Users/sathvik/Documents/Applications/KeepAlive)
+2024-09-23 21:09:32 [main] INFO  c.s.K.KeepAliveApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 21:09:33 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-23 21:09:33 [main] INFO  c.s.K.KeepAliveApplicationTests - Started KeepAliveApplicationTests in 0.789 seconds (process running for 1.169)
+2024-09-23 21:09:44 [main] INFO  c.s.KeepAlive.KeepAliveApplication - Starting KeepAliveApplication using Java 21.0.1 with PID 1704 (/Users/sathvik/Documents/Applications/KeepAlive/target/classes started by sathvik in /Users/sathvik/Documents/Applications/KeepAlive)
+2024-09-23 21:09:44 [main] INFO  c.s.KeepAlive.KeepAliveApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 21:09:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 4000 (http)
+2024-09-23 21:09:44 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-23 21:09:44 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-09-23 21:09:44 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-23 21:09:44 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 482 ms
+2024-09-23 21:09:44 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-23 21:09:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 4000 (http) with context path '/'
+2024-09-23 21:09:44 [main] INFO  c.s.KeepAlive.KeepAliveApplication - Started KeepAliveApplication in 1.026 seconds (process running for 1.244)
+2024-09-23 21:10:24 [main] INFO  c.s.KeepAlive.KeepAliveApplication - Starting KeepAliveApplication using Java 21.0.1 with PID 1718 (/Users/sathvik/Documents/Applications/KeepAlive/target/classes started by sathvik in /Users/sathvik/Documents/Applications/KeepAlive)
+2024-09-23 21:10:24 [main] INFO  c.s.KeepAlive.KeepAliveApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 21:10:24 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 4000 (http)
+2024-09-23 21:10:24 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-23 21:10:24 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-09-23 21:10:24 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-23 21:10:24 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 491 ms
+2024-09-23 21:10:24 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-23 21:10:25 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 4000 (http) with context path '/'
+2024-09-23 21:10:25 [main] INFO  c.s.KeepAlive.KeepAliveApplication - Started KeepAliveApplication in 1.043 seconds (process running for 1.23)
+2024-09-23 21:10:25 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - I/O error on GET request for "http://localhost:5000/keep-alive": Connection refused
+2024-09-23 21:18:06 [main] INFO  c.s.KeepAlive.KeepAliveApplication - Starting KeepAliveApplication using Java 21.0.1 with PID 1932 (/Users/sathvik/Documents/Applications/KeepAlive/target/classes started by sathvik in /Users/sathvik/Documents/Applications/KeepAlive)
+2024-09-23 21:18:06 [main] INFO  c.s.KeepAlive.KeepAliveApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 21:18:06 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 4000 (http)
+2024-09-23 21:18:06 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-23 21:18:06 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-09-23 21:18:06 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-23 21:18:06 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 509 ms
+2024-09-23 21:18:06 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-23 21:18:06 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 4000 (http) with context path '/'
+2024-09-23 21:18:06 [main] INFO  c.s.KeepAlive.KeepAliveApplication - Started KeepAliveApplication in 1.068 seconds (process running for 1.253)
+2024-09-23 21:18:06 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:18:25 [http-nio-4000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-23 21:18:25 [http-nio-4000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-23 21:18:25 [http-nio-4000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-23 21:18:36 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:19:06 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:19:36 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:20:06 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:20:36 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:21:06 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:21:36 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:22:06 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:22:36 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:22:49 [main] INFO  c.s.K.KeepAliveApplicationTests - Starting KeepAliveApplicationTests using Java 21.0.1 with PID 2098 (started by sathvik in /Users/sathvik/Documents/Applications/KeepAlive)
+2024-09-23 21:22:49 [main] INFO  c.s.K.KeepAliveApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 21:22:49 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-23 21:22:49 [main] INFO  c.s.K.KeepAliveApplicationTests - Started KeepAliveApplicationTests in 0.813 seconds (process running for 1.188)
+2024-09-23 21:22:49 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
+2024-09-23 21:23:06 [scheduling-1] INFO  c.s.KeepAlive.jobs.KeepAliveJob - Response from keep-alive-server : Alive
